@@ -45,4 +45,4 @@ module synchronization(
 
 	endcase
    end
-endmodule // synchronization
+endmodule // synchronization xdxdxdxdxprobando
